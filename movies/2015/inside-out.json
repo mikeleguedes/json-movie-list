@@ -1,0 +1,30 @@
+{
+  "name": "Inside Out",
+  "year": 2015,
+  "runtime": 94,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2015-06-19",
+  "director": "Pete Docter",
+  "writer": [
+    "Pete Docter",
+    "Meg LeFauve",
+    "Josh Cooley",
+    "Ronnie del Carmen"
+  ],
+  "actors": [
+    "Amy Poehler",
+    "Phyllis Smith",
+    "Richard Kind",
+    "Lewis Black",
+    "Bill Hader",
+    "Mindy Kaling",
+    "Kaitlyn Dias",
+    "Diane Lane",
+    "Kyle MacLachlan"
+  ],
+  "storyline": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+}
