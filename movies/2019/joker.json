@@ -1,0 +1,24 @@
+{
+  "name": "Joker",
+  "year": 2019,
+  "runtime": 122,
+  "categories": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "release-date": "2019-09-28",
+  "director": "Todd Phillips",
+  "writer": [
+    "Todd Phillips",
+    "Scott Silver"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Zazie Beetz",
+    "Frances Conroy",
+    "Brett Cullen"
+  ],
+  "storyline": "In Gotham City, mentally-troubled comedian Arthur Fleck embarks on a downward-spiral of social revolution and bloody crime. This path brings him face-to-face with his infamous alter-ego: \"The Joker\"."
+}
