@@ -1,0 +1,35 @@
+{
+  "name": "Shazam!",
+  "year": 2019,
+  "runtime": 132,
+  "categories": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "release-date": "2019-03-15",
+  "director": "David F. Sandberg",
+  "writer": [
+    "Henry Gayden",
+    "Henry Gayden",
+    "Darren Lemke",
+    "Bill Parker",
+    "C.C. Beck"
+  ],
+  "actors": [
+    "Asher Angel",
+    "Zachary Levi",
+    "Mark Strong",
+    "Jack Dylan Grazer",
+    "Djimon Hounsou",
+    "Faithe Herman",
+    "Grace Fulton",
+    "Ian Chen",
+    "Jovan Armand",
+    "Marta Milans",
+    "Cooper Andrews"
+  ],
+  "storyline": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam."
+}
+
