@@ -1,0 +1,26 @@
+{
+  "name": "A Dog's Purpose",
+  "year": 2017,
+  "runtime": 135,
+  "categories": ["drama"],
+  "release-date": "2017-01-27",
+  "director": "Lasse Hallström",
+  "writer": [
+    "W. Bruce Cameron",
+    "Cathryn Michon",
+    "Audrey Wells",
+    "Maya Forbes",
+    "Wally Wolodarsky"
+  ],
+  "actors": [
+    "Britt Robertson",
+    "KJ Apa",
+    "Juliet Rylance",
+    "John Ortiz",
+    "Kirby Howell-Baptiste",
+    "Peggy Lipton",
+    "Dennis Quaid",
+    "Josh Gad"
+  ],
+  "storyline": "Is based on W. Bruce Cameron's comedic novel about a dog's journey through several lives, with all different sorts of human companions."
+}

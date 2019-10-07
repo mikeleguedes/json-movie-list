@@ -1,0 +1,21 @@
+{
+  "name": "Hachi: A Dog's Tale",
+  "year": 2009,
+  "runtime": 93,
+  "categories": [
+    "drama",
+    "family"
+  ],
+  "release-date": "2009-06-08",
+  "director": "Lasse Hallström",
+  "writer": [
+    "Stephen P. Lindsey",
+    "Kaneto Shindo"
+  ],
+  "actors": [
+    "Richard Gere",
+    "Joan Allen",
+    "Sarah Roemer"
+  ],
+  "description": "When his master dies, a loyal pooch named Hachiko keeps a vigil for more than a decade at the train station where he once greeted his owner every day."
+}
