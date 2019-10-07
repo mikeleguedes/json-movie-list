@@ -1,0 +1,39 @@
+{
+    "name" : "Us",
+    "year" : 2019,
+    "runtime" : 116,
+    "categories" : [
+      "horror",
+      "thriller",
+      "mystery",
+      "psychological horror"
+    ],
+    "release-date" : "2019-05-22",
+    "director" : "Jordan Peele",
+    "writer" : [
+      "Jordan Peele"
+    ],
+    "actors" : [
+      "Lupita Nyong'o",
+      "Madison Curry",
+      "Ashley McKoy",
+      "Winston Duke",
+      "Shahadi Wright Joseph",
+      "Evan Alex",
+      "Elisabeth Moss",
+      "Tim Heidecker",
+      "Yahya Adbul-Mateen II",
+      "Anna Diop",
+      "Cali Sheldon",
+      "Noelle Sheldon",
+      "Napiera Groves",
+      "Duke Nicholson",
+      "Kara Hayward",
+      "Nathan Harrington",
+      "Dustin Ybarra",
+      "Alan Frazier",
+      "Lon Gowan",
+      "Jordan Peele"
+    ],
+    "storyline" : "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them."
+}
