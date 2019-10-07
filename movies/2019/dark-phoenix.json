@@ -1,0 +1,27 @@
+{
+  "name": "Dark Phoenix",
+  "year": 2019,
+  "runtime": 114,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2019-06-05",
+  "director": "Simon Kinberg",
+  "writer": [
+    "Simon Kinberg"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Michael Fassbender",
+    "Jennifer Lawrence",
+    "Sophie Turner",
+    "Jessica Chastain",
+    "Nicholas Hoult",
+    "Tye Sheridan",
+    "Alexandra Shipp",
+    "Evan Peters",
+  ],
+  "storyline": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all of humanity."
+}
