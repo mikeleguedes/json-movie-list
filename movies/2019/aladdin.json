@@ -1,0 +1,36 @@
+{
+    "name" : "Aladdin",
+    "year" : 2019,
+    "runtime" : 128,
+    "categories" : [
+      "adventure",
+      "family",
+      "fantasy",
+      "musical",
+      "romance"
+    ],
+    "release-date" : "2019-05-22",
+    "director" : "Guy Ritchie",
+    "writer" : [
+      "John August",
+      "Guy Ritchie"
+    ],
+    "actors" : [
+      "Will Smith",
+      "Mena Massoud",
+      "Naomi Scott",
+      "Marwan Kenzari",
+      "Navid Negahban",
+      "Nasim Pedrad",
+      "Billy Magnussen",
+      "Jordan A. Nash",
+      "Taliyah Blair",
+      "Aubrey Lin",
+      "Amir Boutrous",
+      "Numan Acar",
+      "Omari Bernard",
+      "Nathaniel Ellul",
+      "Sebastien Torkia"
+    ],
+    "storyline" : "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+}
