@@ -1,0 +1,41 @@
+{
+  "name": "Winchester",
+  "year": 2018,
+  "runtime": 99,
+  "categories": [
+    "biography",
+    "drama",
+    "fantasy",
+    "horror",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2018-02-02",
+  "director": [
+    "Michael Spierig",
+    "Peter Spierig"
+  ],
+  "writer": [
+    "Tom Vaughan",
+    "Michael Spierig",
+    "Peter Spierig"
+  ],
+  "actors": [
+    "Helen Mirren",
+    "Sarah Snook",
+    "Finn Scicluna-O'Prey",
+    "Jason Clarke",
+    "Emm Wiseman",
+    "Alana Fagan",
+    "Rebecca Makar",
+    "Tyler Coppin",
+    "Michael Carman",
+    "Angus Sampson",
+    "Alice Chaston",
+    "Eamon Farren",
+    "Laura Brent",
+    "Adam Bowes",
+    "Bruce Spence"
+  ],
+  "storyline": "Ensconced in her sprawling California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle."
+}
