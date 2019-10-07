@@ -1,16 +1,21 @@
 {
-    "name": "glass",
+    "name": "Glass",
     "year": "2019",
     "runtime": "129",
     "categories": [
-        "drama",
-        "sci-fi",
-         "thriller"
-        ], 
+       "drama",
+       "sci-fi",
+       "thriller"
+    ], 
     "release-date" : "2019-01-18",
     "director": "M. Night Shyamalan",
     "writer": "M. Night Shyamalan",
-    "actors": [ "James McAvoy", "Bruce Willis", "Samuel L. Jackson", "Anya Taylor-Joy" ],
+    "actors": [
+       "James McAvoy",
+       "Bruce Willis", 
+       "Samuel L. Jackson",
+       "Anya Taylor-Joy"
+    ],
     "storyline": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities."
 }
     
