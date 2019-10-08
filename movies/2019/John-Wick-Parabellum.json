@@ -1,0 +1,34 @@
+{
+    "name" : "John Wick Parabellum",
+    "year" : 2019,
+    "runtime" : 131,
+    "categories" : [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "release-date" : "2019-05-17",
+    "director" : "Chad Stahelski",
+    "writer" : [
+      "Derek Kolstad",
+      "Shay Hatten",
+      "Chris Collins",
+      "Marc Abrams"
+    ],
+    "actors" : [
+      "Keanu Reeves",
+      "Halle Berry",
+      "Laurence Fishburne",
+      "Mark Dacascos",
+      "Asia Kate Dillon",
+      "Lance Reddick",
+      "Anjelica Huston",
+      "Ian McShane",
+      "Susan Blommaert",
+      "Jason Mantzoukas",
+      "Yayan Ruhian",
+      "Saïd Taghmaoui",
+      "Tiler Peck"
+    ],
+    "storyline" : "Super-assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere."
+}
