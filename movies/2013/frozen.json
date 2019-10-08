@@ -1,0 +1,32 @@
+{
+    "name": "Frozen",
+    "year": 2013,
+    "runtime": 102,
+    "categories": [
+      "animation",
+      "adventure",
+      "comedy",
+      "family",
+      "fantasy",
+      "musical"
+    ],
+    "release-date": "2013-11-27",
+    "director": [
+      "Chris Buck",
+      "Jennifer Lee"
+    ],
+    "writer": [
+      "Jennifer Lee",
+      "Chris Buck",
+      "Shane Morris"
+    ],
+    "actors": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Jonathan Groff",
+      "Josh Gad",
+      "Santino Fontana"
+    ],
+    "storyline": "It is the story of a fearless princess who sets off on a journey alongside a rugged iceman, his loyal reindeer, and a naive snowman to find her estranged sister, whose icy powers have inadvertently trapped their kingdom in eternal winter."
+  }
+  
