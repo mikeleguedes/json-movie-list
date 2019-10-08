@@ -1,0 +1,23 @@
+{
+  "name": "Frankenstein",
+  "year": 1931,
+  "runtime": 70,
+  "categories": [
+    "drama",
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "1931-09-21",
+  "director": "James Whale",
+  "writer": [
+    "John L. Balderston",
+    "Mary Shelley"
+  ],
+  "actors": [
+    "Colin Clive",
+    "Mae Clarke",
+    "John Boles",
+    "Boris Karloff"
+  ],
+  "storyline": "Henry Frankenstein is a doctor who is trying to discover a way to make the dead walk. He succeeds and creates a monster that has to deal with living again."
+}
