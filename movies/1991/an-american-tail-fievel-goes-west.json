@@ -1,0 +1,27 @@
+{
+    "name": "An American Tail: Fievel Goes West",
+    "year": 1991,
+    "runtime": 74,
+    "categories": [
+          "comedy"
+    ],
+    "release-date": "1991-11-22",
+    "director": ["Phil Nibbelink",
+                "Simon Wells"],
+    "writer": [
+      "Charles Swenson", "Flint Dille"
+    ],
+    "actors": [	
+        "Phillip Glasser",
+        "James Stewart",
+        "Erica Yohn",
+        "Cathy Cavadini",
+        "Nehemiah Persoff",
+        "Dom DeLuise",
+        "Amy Irving",
+        "John Cleese",
+        "Jon Lovitz"
+    ],
+    "storyline":"An animated movie where the Mousekewitz family travels west to start a new life."
+  }
+  
