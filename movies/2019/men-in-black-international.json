@@ -3,10 +3,10 @@
     "year" : 2019,
     "runtime" : 115,
     "categories" : [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
+      "action",
+      "adventure",
+      "comedy",
+      "sci-Fi"
     ],
     "release-date" : "2019-06-14",
     "director" : "F. Gary Gray",
