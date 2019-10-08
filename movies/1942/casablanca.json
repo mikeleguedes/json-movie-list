@@ -1,0 +1,22 @@
+{
+    "name": "Casablanca",
+    "year": 1942,
+    "runtime": 102,
+    "categories": [
+        "drana",
+        "romance",
+        "war"
+    ],
+    "release-date": "1943-01-23",
+    "director": "Michael Curtiz",
+    "writer": [
+        "Julius J. Epstejn",
+        "Philip G. Epstein"
+    ],
+    "actors": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid"
+    ],
+    "storyline": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco."
+}
