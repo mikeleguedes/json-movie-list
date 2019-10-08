@@ -1,6 +1,7 @@
 const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
+const deburr = require('lodash.deburr');
 
 const moviesFolder = './movies';
 const actorsFolder = './actors';
@@ -32,13 +33,13 @@ years.sort().forEach(year => {
       console.error('Error parsing ' + fileName);
       movie_errors.push('Invalid JSON file: ' + fileName);
     }
-    const expectedFileName = movie.name
+    const expectedFileName = deburr(movie.name
       .replace(/[\'\"\,\?]/g, '')
       .replace(/([\:\.]| - )/g, ' ')
       .replace(/  /g, ' ')
       .replace(/&/, 'and')
       .replace(/\s+/g, '-')
-      .toLowerCase();
+      .toLowerCase());
 
     for (let i = 0; i < requiredProp.length; i++) {
       const currentProp = requiredProp[i];
