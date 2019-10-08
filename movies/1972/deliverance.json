@@ -5,7 +5,7 @@
   "categories": ["adventure", "drama", "thriller"],
   "release-date": "1972-08-18",
   "director": "John Boorman",
-  "writer": ["James Dickey"],
+  "writer": "James Dickey",
   "actors": [
     "Jon Voight",
     "Burt Reynolds",
