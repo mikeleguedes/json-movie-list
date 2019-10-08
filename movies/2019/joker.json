@@ -1,0 +1,22 @@
+{
+  "name": "Joker",
+  "year": 2019,
+  "runtime": 122,
+  "categories": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "release-date": "2019-10-04",
+  "director": "Todd Phillips",
+  "writer": [
+    "Todd Phillips",
+    "Scott Silver"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Zazie Beetz"
+  ],
+  "storyline": "Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society, is not only a gritty character study, but also a broader cautionary tale."
+}
