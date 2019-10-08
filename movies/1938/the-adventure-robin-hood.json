@@ -1,0 +1,26 @@
+{
+    "name": "The Adventures of Robin Hood",
+    "year": 1938,
+    "runtime":  102 ,
+    "categories": [
+      "action",
+      "romance",
+      "adventure"
+    ],
+    "release-date": "1938-05-14",
+    "director": [
+        "Michael Curtiz",
+        "William Keighley"
+    ],
+    "writer": [
+      "Howard Pyle"
+    ],
+    "actors": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone",
+      " Olivia de Havilland"
+    ],
+    "storyline": "The Adventures of Robin Hood is a 1938 American Technicolor swashbuckler film directed by Michael Curtiz and William Keighley and starring Errol Flynn, Olivia de Havilland, Basil Rathbone, and Claude Rains. It was distributed by Warner Bros. and produced by Hal B. Wallis and Henry Blanke."
+  }
+  
