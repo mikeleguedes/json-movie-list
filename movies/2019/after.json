@@ -1,4 +1,17 @@
 {
+  "name": "After",
+  "year": 2019,
+  "runtime": 105,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "2019-04-12",
+  "director": "Jenny Gage", 
+  "writer": [ "Tom Betterton", "Tamara Chestna", "Jenny Gage",
+    "Susan McMartin",
+    "Anna Todd"
+  ],
   "actors": [
     "Josephine Langford",
     "Hero Fiennes Tiffin",
@@ -23,21 +36,5 @@
     "Mark Axelowitz",
     "Paul Fox"
   ],
-  "name": "After",
-  "categories": [
-    "drama",
-    "romance"
-  ],
-  "director": "Jenny Gage",
-  "release-date": "2019-04-12",
-  "runtime": 105,
-  "storyline": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
-  "writer": [
-    "Tom Betterton",
-    "Tamara Chestna",
-    "Jenny Gage",
-    "Susan McMartin",
-    "Anna Todd"
-  ],
-  "year": 2019
+  "storyline": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd."
 }
