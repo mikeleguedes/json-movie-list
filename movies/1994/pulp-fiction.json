@@ -1,0 +1,29 @@
+{
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "runtime": 178,
+    "categories": [
+      "detective",
+      "adventure",
+      "thriller",
+      "comedy",
+      "crime",
+      "indie"
+    ],
+    "release-date": "1994-10-14",
+    "director": "Quentin Tarantino",
+    "writer": [
+        "Quentin Tarantino"
+    ],
+    "actors": [
+      "Tim Roth",
+      "John Travolta ",
+      "Samuel L. Jackson",
+      "Bruce Willis ",
+      " Ving Rhames",
+      "Uma Thurman "
+
+    ],
+    "storyline": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  }
+  
