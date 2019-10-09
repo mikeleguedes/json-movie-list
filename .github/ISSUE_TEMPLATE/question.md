@@ -1,5 +1,5 @@
 ---
-name: Question 🤔
+name: Ask Question 🤔
 about: Question about JSON Movie List.
 ---
 <!--
