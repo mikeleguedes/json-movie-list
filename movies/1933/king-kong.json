@@ -1,0 +1,34 @@
+{
+    "name" : "King Kong",
+    "year" : 1933,
+    "runtime" : 100,
+    "categories" : [
+      "adventure",
+      "horror",
+      "sci-fi"
+    ],
+    "release-date" : "1933-04-07",
+    "director" : [
+	  "Merian C. Cooper",
+	  "Ernest B. Schoedsack"
+	],
+    "writer" : [
+      "James Ashmore Creelman",
+      "Ruth Rose",
+      "Merian C. Cooper",
+      "Edgar Wallace",
+	  "Leon Gordon"
+    ],
+    "actors" : [
+      "Fay Wray",
+      "Robert Armstrong",
+      "Bruce Cabot",
+      "Frank Reicher",
+      "Sam Hardy",
+      "Noble Johnson",
+      "Steve Clemente",
+      "James Flavin",
+      "King Kong"
+    ],
+    "storyline" : "A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition."
+}

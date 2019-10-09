@@ -1,0 +1,41 @@
+{
+  "name": "Cabaret",
+  "year": 1972,
+  "runtime": 124,
+  "categories": ["drama", "musical"],
+  "release-date": "1972-02-13",
+  "director": "Bob Fosse",
+  "writer": [
+    "Joe Masteroff",
+    "John Van Druten",
+    "Christopher Isherwood",
+    "Jay Presson Allen"
+  ],
+  "actors": [
+    "Liza Minelli",
+    "Michael York",
+    "Helmut Griem",
+    "Joel Grey",
+    "Fritz Wepper",
+    "Marisa Berenson",
+    "Elisabeth Neumann-Viertel",
+    "Helen Vita",
+    "Sigrid von Richthofen",
+    "Gerd Vespermann",
+    "Ralf Wolter",
+    "Georg Hartmann",
+    "Ricky Renee",
+    "Estrongo Nachama",
+    "Kathryn Doby",
+    "Inge Jaeger",
+    "Angelika Koch",
+    "Helen Velkovorska",
+    "Gitta Schmidt",
+    "Louise Quick",
+    "Oliver Collignon",
+    "Pierre Franckh",
+    "Mark Lambert",
+    "Ellen Umlauf"
+  ],
+  "storyline": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them."
+}

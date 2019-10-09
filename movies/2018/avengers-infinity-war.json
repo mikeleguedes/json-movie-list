@@ -1,11 +1,11 @@
 {
   "name": "Avengers: Infinity War",
-  "year": 2018,
+  "year": 2019,
   "runtime": 149,
   "categories": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+    "action",
+    "adventure",
+    "sci-fi"
   ],
   "release-date": "2018-04-27",
   "director": [
@@ -14,7 +14,16 @@
   ],
   "writer": [
     "Christopher Markus",
-    "Stephen McFeely"
+    "Stephen McFeely",
+    "Stan Lee",
+    "Jack Kirby",
+    "Joe Simon",
+    "Steve Englehart",
+    "Steve Gan",
+    "Bill Mantlo",
+    "Keith Giffen",
+    "Larry Lieber",
+    "Don Heck"
   ],
   "actors": [
     "Robert Downey Jr.",
@@ -22,7 +31,8 @@
     "Mark Ruffalo",
     "Chris Evans",
     "Scarlett Johansson",
-    "Benedict Cumberbatch"
+    "Jeremy Renner"
   ],
   "storyline": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
-}
+} 
+

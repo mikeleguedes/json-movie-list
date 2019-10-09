@@ -1,0 +1,23 @@
+{
+  "name": "The Phantom of the Opera",
+  "year": 2004,
+  "runtime": 143,
+  "categories": [
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2004-12-10",
+  "director": "Joel Schumacher",
+  "writer": [
+    "Gaston Leroux"
+  ],
+  "actors": [
+    "Emmy Rossum",
+    "Gerard Butler",
+    "Patrick Wilson",
+    "Minnie Driver",
+    "Miranda Richardson",
+    "Jennifer Ellison"
+  ],
+  "description": "A disfigured musical genius, hidden away in the Paris Opera House, terrorizes the opera company for the unwitting benefit of a young protege whom he trains and is in love with."
+}

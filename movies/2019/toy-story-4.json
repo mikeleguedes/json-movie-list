@@ -1,0 +1,42 @@
+{
+    "name" : "Toy Story 4",
+    "year" : 2019,
+    "runtime" : 100,
+    "categories" : [
+      "animation",
+      "adventure",
+      "comedy",
+      "family",
+      "fantasy"
+    ],
+    "release-date" : "2019-06-21",
+    "director" : " Josh Cooley",
+    "writer" : [
+        "John Lasseter",
+        "Andrew Stanton",
+        "Josh Cooley",
+        "Valerie LaPointe",	
+        "Rashida Jones",
+        "Will McCormack",	
+        "Martin Hynes",
+        "Stephany Folsom"
+    ],
+    "actors" : [
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts",
+        "Tony Hale",
+        "Keegan-Michael Key",
+        "Madeleine McGraw",
+        "Christina Hendricks",
+        "Jordan Peele",
+        "Keanu Reeves",
+        "Ally Maki",
+        "Jay Hernandez",
+        "Lori Alan",
+        "Joan Cusack",
+        "Bonnie Hunt",
+        "Kristen Schaal"
+    ],
+    "storyline" : "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."
+}

@@ -1,0 +1,42 @@
+{
+    "name" : "The Adventures of Robin Hood",
+    "year" : 1938,
+    "runtime" : 102,
+    "categories" : [
+      "action",
+      "adventure",
+      "romance"
+    ],
+    "release-date" : "1938-05-14",
+    "director" : [
+	  "Michael Curtiz",
+	  "William Keighley"
+	],
+    "writer" : [
+      "Norman Reilly Raine",
+      "Seton I. Miller"
+    ],
+    "actors" : [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone",
+      "Claude Rains",
+      "Patric Knowles",
+      "Eugene Pallette",
+      "Alan Hale",
+      "Melville Cooper",
+      "Ian Hunter",
+      "Una O'Connor",
+      "Herbert Mundin",
+      "Montagu Love",
+      "Leonard Willey",
+      "Robert Noble",
+      "Kenneth Hunter",
+      "Robert Warwick",
+      "Colin Kenny",
+      "Lester Matthews",
+      "Harry Cording",
+      "Ivan F. Simpson"
+    ],
+    "storyline" : "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army."
+}
