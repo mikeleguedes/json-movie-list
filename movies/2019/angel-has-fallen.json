@@ -1,0 +1,23 @@
+{
+  "name": "Angel Has Fallen",
+  "year": 2019,
+  "runtime": 121,
+  "categories": [
+    "action",
+    "thriller"
+  ],
+  "release-date": "2019-08-21",
+  "director": "Ric Roman Waugh",
+  "writer": [
+    "Ric Roman Waugh",
+    "Robert Mark Kamen",
+    "Matt Cook"
+  ],
+  "actors": [
+    "Gerard Butler",
+    "Morgan Freeman",
+    "Piper Perabo"
+  ],
+  "storyline": "Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat."
+}
+
