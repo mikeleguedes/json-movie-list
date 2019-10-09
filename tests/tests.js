@@ -33,7 +33,7 @@ years.sort().forEach(year => {
       console.error('Error parsing ' + fileName);
       movie_errors.push('Invalid JSON file: ' + fileName);
     }
-    const expectedFileName = deburr(movie.name
+    const expectedFileName = deburr(movie.name)
       .replace(/[\'\"\,\?]/g, '')
       .replace(/([\:\.]| - )/g, ' ')
       .replace(/  /g, ' ')
@@ -48,7 +48,7 @@ years.sort().forEach(year => {
       .replace(/[\u00F9-\u00FC]/g, 'u')       // 'u'-like symbols
       .replace(/[\u00FD\u00FF]/g, 'y')        // 'y'-like symbols
       .replace('æ','ae')
-      .replace('ç', 'c');
+      .replace('ç', 'c')
 
     for (let i = 0; i < requiredProp.length; i++) {
       const currentProp = requiredProp[i];
