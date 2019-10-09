@@ -2,10 +2,16 @@
   "name": "The Invisible Man",
   "year": 1933,
   "runtime": 71,
-  "categories": ["horror", "sci-fi"],
+  "categories": [
+    "horror",
+    "sci-fi"
+  ],
   "release-date": "1933-11-03",
   "director": "James Whale",
-  "writer": ["H.G. Wells", "R.C. Sherriff"],
+  "writer": [
+    "H.G. Wells",
+    "R.C. Sherriff"
+  ],
   "actors": [
     "Claude Rains",
     "William Harrigan",
