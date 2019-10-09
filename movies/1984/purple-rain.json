@@ -6,7 +6,6 @@
         "rock musical",
         "drama"
     ],
-    "description": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
     "release-date": "1984-07-27",
     "director": "Albert Magnoli",
     "writer": [
@@ -19,5 +18,6 @@
         "Morris Day",
         "Olga Karlatos",
         "Clarence Williams III"
-    ]
+    ],
+    "storyline": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise."
 }
