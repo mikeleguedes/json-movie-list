@@ -39,7 +39,16 @@ years.sort().forEach(year => {
       .replace(/  /g, ' ')
       .replace(/&/, 'and')
       .replace(/\s+/g, '-')
-      .toLowerCase());
+                                    
+      .toLowerCase()
+      .replace(/[\u00F2-\u03F6\u00F8]/g, 'o') // 'o'-like symbols
+      .replace(/[\u00E0-\u00E5]/g, 'a')       // 'a'-like symbols
+      .replace(/[\u00E8-\u00EB]/g, 'e')       // 'e'-like symbols
+      .replace(/[\u00EC-\u00EC]/g, 'i')       // 'i'-like symbols
+      .replace(/[\u00F9-\u00FC]/g, 'u')       // 'u'-like symbols
+      .replace(/[\u00FD\u00FF]/g, 'y')        // 'y'-like symbols
+      .replace('æ','ae')
+      .replace('ç', 'c');
 
     for (let i = 0; i < requiredProp.length; i++) {
       const currentProp = requiredProp[i];
@@ -87,6 +96,7 @@ if (movie_errors.length > 0) {
 }
 
 console.log('movies test: no errors found.');
+
 function validatePerson(file, folder) {
   const fileName = `${folder}/${file}`;
   const personData = fs.readFileSync(fileName, 'utf8');
@@ -122,7 +132,15 @@ function validatePerson(file, folder) {
     .replace(/([\:\.]| - )/g, '')
     .replace(/  /g, ' ')
     .replace(/\s+/g, '-')
-    .toLowerCase();
+    .toLowerCase()
+    .replace(/[\u00F2-\u03F6\u00F8]/g, 'o') // 'o'-like symbols
+    .replace(/[\u00E0-\u00E5]/g, 'a')       // 'a'-like symbols
+    .replace(/[\u00E8-\u00EB]/g, 'e')       // 'e'-like symbols
+    .replace(/[\u00EC-\u00EC]/g, 'i')       // 'i'-like symbols
+    .replace(/[\u00F9-\u00FC]/g, 'u')       // 'u'-like symbols
+    .replace(/[\u00FD\u00FF]/g, 'y')        // 'y'-like symbols
+    .replace('æ','ae')
+    .replace('ç', 'c');
 
   const fileBaseName = path.parse(file).name
   if (path.parse(file).name !== expectedFileName) {
