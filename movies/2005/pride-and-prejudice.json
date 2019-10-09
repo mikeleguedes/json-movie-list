@@ -1,0 +1,22 @@
+{
+    "name": "Pride & Prejudice",
+    "year": 2005,
+    "runtime": 129 ,
+    "categories": [
+        "drama",
+        "romance"
+    ],
+    "release-date": "2005-11-23",
+    "director": "Joe Wright",
+    "writer": [
+        "Jane Austen",
+        "Deborah Moggach"
+    ],
+    "actors": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Donald Sutherland"
+    ],
+    "storyline": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?"
+}
