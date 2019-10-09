@@ -1,0 +1,33 @@
+{
+  "name": "The Lion King",
+  "year": 2019,
+  "runtime": 118,
+  "categories": [
+    "animation",
+    "adventure",
+    "drama",
+    "family",
+    "musical"
+  ],
+  "release-date": "2019-07-19",
+  "director": "Jon Favreau",
+  "writer": [
+    "Jeff Nathanson",
+    "Brenda Chapman",
+    "Irene Mecchi",
+    "Jonathan Roberts",
+    "Linda Woolverton"
+  ],
+  "actors": [
+    "Donald Glover",
+    "Seth Rogen",
+    "Chiwetel Ejiofor",
+    "Alfre Woodard",
+    "Billy Eichner",
+    "John Kani",
+    "John Oliver",
+    "Beyoncé Knowles-Carter",
+    "James Earl Jones"
+  ],
+  "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+}
