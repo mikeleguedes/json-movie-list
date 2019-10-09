@@ -1,0 +1,33 @@
+{
+    "name": "Casablanca",
+    "year": 1942,
+    "runtime": 102,
+    "categories": [
+        "drama",
+        "romance",
+        "war"
+    ],
+    "release-date": "1943-01-23",
+    "director": "Michael Curtiz",
+    "writer": [
+        "Julius J. Epstejn",
+        "Philip G. Epstein",
+        "Howard Koch"
+    ],
+    "actors": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains",
+        "Conrad Veidt",
+        "Sydney Greenstreet",
+        "Peter Lorre",
+        "Madeleine Lebeau",
+        "Dooley Wilson",
+        "Joy Page",
+        "John Qualen",
+        "Leonid Kinskey",
+        "Curt Bois"
+    ],
+    "storyline": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco."
+}
