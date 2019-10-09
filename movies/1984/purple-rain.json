@@ -1,0 +1,23 @@
+{
+    "name": "Purple Rain",
+    "year": 1984,
+    "runtime": 111,
+    "categories": [
+        "rock musical",
+        "drama"
+    ],
+    "release-date": "1984-07-27",
+    "director": "Albert Magnoli",
+    "writer": [
+        "Albert Magnoli",
+        "William Blinn"
+    ],
+    "actors": [
+        "Prince",
+        "Apollonia Kotero",
+        "Morris Day",
+        "Olga Karlatos",
+        "Clarence Williams III"
+    ],
+    "storyline": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise."
+}
