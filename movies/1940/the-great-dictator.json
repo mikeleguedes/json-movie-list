@@ -1,0 +1,36 @@
+{
+  "name": "The Great Dictator",
+  "year": 1940,
+  "runtime": 125,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1940-10-15",
+  "director": "Charles Chaplin",
+  "writer": [
+    "Charles Chaplin"
+  ],
+  "actors": [
+    "Charles Chaplin",
+    "Jack Oakie",
+    "Reginald Gardner",
+    "Billy Gilbert",
+    "Grace Hayle",
+    "Carter DeHaven",
+    "Paulette Goddard",
+    "Maurice Moscovitch",
+    "Emma Dunn",
+    "Bernard Gorcery",
+    "Paul Weigel",
+    "Chester Conklin",
+    "Esther Michelson",
+    "Hank Mann",
+    "Florence Wright",
+    "Eddie Gribbon",
+    "Rudolph Anders",
+    "Eddie Dunn",
+    "Nita Pike",
+    "George Lynn"
+  ],
+  "storyline": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+}
