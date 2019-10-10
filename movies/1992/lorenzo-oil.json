@@ -1,0 +1,20 @@
+{
+  "name": "Lorenzo's Oil",
+  "year": 1992,
+  "runtime": 129,
+  "categories": [
+    "Drama"
+  ],
+  "release-date": "1992-01-29",
+  "director": "George Miller",
+  "writer": [
+    "George Miller",
+	"Nick Enright"
+  ],
+  "actors": [
+    "Nick Nolte",
+    "Susan Sarandon",
+    "Peter Ustinov "
+  ],
+  "storyline": "A boy develops a disease so rare that nobody is working on a cure, so his father decides to learn all about it and tackle the problem himself."
+}
