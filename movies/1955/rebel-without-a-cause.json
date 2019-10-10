@@ -1,0 +1,34 @@
+{
+  "name": "Rebel Without a Cause",
+  "year": 1955,
+  "runtime": 111,
+  "categories": [
+    "drama"
+  ],
+  "description": "",
+  "release-date": "1955-10-29",
+  "director": "Nicholas Ray",
+  "writer": [
+    "Stewart Stern",
+    "Irvin Shulman",
+    "Nicholas Ray"
+  ],
+  "actors": [
+    "James Dean",
+    "Natalie Wood",
+    "Sal Mineo",
+    "Jim Backus",
+    "Ann Doran",
+    "Corey Allen",
+    "William Hopper",
+    "Rochelle Hudson",
+    "Dennis Hopper",
+    "Edward Platt",
+    "Steffi Sidney",
+    "Marietta Canty",
+    "Virginia Brissac",
+    "Beverly Long",
+    "Ian Wolfe"
+  ],
+  "storyline": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies."
+}
