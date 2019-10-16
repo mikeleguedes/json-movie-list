@@ -1,0 +1,23 @@
+{
+  "name": "The Legend of Tarzan",
+  "year": 2016,
+  "runtime": 110,
+  "categories": [
+    "Drama",
+    "Action",
+    "Adventure"
+  ],
+  "release-date": "2016-06-27",
+  "director": "David Yates",
+  "writer": [
+    "Adam Cozad",
+	"Craig Brewer",
+	"Edgar Rice Burroughs"
+  ],
+  "actors": [
+    "Alexander Skarsgård",
+    "Rory J. Saper",
+    "Margot Robbier"
+  ],
+  "storyline": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment."
+}
