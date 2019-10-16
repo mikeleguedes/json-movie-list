@@ -1,0 +1,24 @@
+{
+    "name": "Walk the Line",
+    "year": 2005,
+    "runtime": 136,
+    "categories": [
+        "biography",
+        "drama",
+        "music"
+    ],
+    "release-date": "2005-11-18",
+    "director": "James Mangold",
+    "writer": [
+        "Johnny Cash",
+        "Gill Dennis",
+        "James Mangold"
+    ],
+    "actors": [
+        "Joaquin Phoenix",
+        "Reese Witherspoon",
+        "Ginnifer Goodwin",
+        "Robert Patrick"
+    ],
+    "storyline": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins."
+}
