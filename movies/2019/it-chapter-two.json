@@ -1,0 +1,34 @@
+{
+  "name": "It Chapter Two",
+  "year": 2019,
+  "runtime": 169,
+  "categories": [
+    "drama",
+    "fantasy",
+    "horror"
+  ],
+  "release-date": "2019-09-06",
+  "director": "Andy Muschietti",
+  "writer": [
+    "Gary Dauberman",
+    "Stephen King"
+  ],
+  "actors": [
+    "Jessica Chastain",
+	"James McAvoy",
+	"Bill Harder",
+	"Isaiah Mustafa",
+	"Jay Ryan",
+	"James Ransone",
+	"Andy Bean",
+	"Bill Skarsgård",
+	"Jaeden Martell",
+	"Wyatt Oleff",
+	"Jack Dylan Grazer",
+	"Finn Wolfhard",
+	"Sophia Lillis",
+	"Choosen Jacobs",
+	"Jeremy Ray Taylor"    
+  ],
+  "storyline": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways. But when people start disappearing, Mike Hanlon calls the others home for one final stand. Damaged by scars from the past, the united Losers must conquer their deepest fears to destroy the shape-shifting Pennywise -- now more powerful than ever."
+}
