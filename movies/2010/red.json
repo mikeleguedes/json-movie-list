@@ -1,0 +1,26 @@
+{
+  "name": "Red",
+  "year": 2010,
+  "runtime": 111,
+  "categories": [
+    "comedy",
+    "action",
+    "crime"
+  ],
+  "release-date": "2010-10-15",
+  "director": "Robert Schwentke",
+  "writer": [
+    "Jon Hoeber",
+    "Erich Hoeber"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Mary-Louise Parker",
+    "Morgan Freeman",
+    "John Malkovich",
+    "Helen Mirren",
+    "Karl Urban"
+  ],
+  "description": "Retired government agents uncover a plot against their lives, and hilarity ensues as they look for the truth."
+}
+  
