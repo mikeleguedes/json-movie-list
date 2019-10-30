@@ -1,0 +1,24 @@
+{
+    "name": "Lucy in The Sky",
+    "year": 2019,
+    "runtime": 124,
+    "categories": [
+      "drama",
+      "fantasy",
+      "sci-fi"  
+    ],
+    "release-date": "2019-10-04",
+    "director": "Noah Hawley",
+    "writer": [
+      " Noah Hawley", 
+      "Elliott DiGuiseppi", 
+      "Brian C. Brown"
+    ],
+    "actors": [
+      "Natalie Portman",
+      "Jon Hamm",
+      "Zazie Beetz",
+      "Dan Stevens"
+    ],
+    "storyline": "After an awe-inspiring experience in outer space, an astronaut returns to Earth and starts to lose touch with reality in a world that now seems too small."
+  }
