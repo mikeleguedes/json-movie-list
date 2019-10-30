@@ -2,7 +2,10 @@
   "name": "Spring, Summer, Fall, Winter... and Spring",
   "year": 2003,
   "runtime": 103,
-  "categories": ["drama", "romance"],
+  "categories": [
+    "drama",
+    "romance"
+  ],
   "release-date": "2003-09-19",
   "director": "Kim Ki-duk",
   "writer": "Kim Ki-duk",
