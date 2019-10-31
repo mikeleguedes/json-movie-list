@@ -1,0 +1,25 @@
+{
+  "name": "Crouching Tiger, Hidden Dragon",
+  "year": 2000,
+  "runtime": 120,
+  "categories": [
+    "wuxia",
+    "action"
+  ],
+  "release-date": "2000-05-18",
+  "director": "Ang Lee",
+  "writer": [
+    "Hui-Ling Wang",
+    "James Schamus",
+    "Kuo Jung Tsai"
+  ],
+
+  "actors": [
+    "Chow Yun-Fat",
+    "Michelle Yeoh",
+    "Zhang Ziyi",
+    "Chang Chen",
+    "Cheng Pei-pei"
+  ],
+  "storyline": "The film tells the story of two women, both exquisite fighters, and whose lives are in the days of the Qing Dynasty. Their fates lead them on a violent and startling journey that will force them to make choices that could change their lives."
+}
