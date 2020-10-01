@@ -1,0 +1,21 @@
+{
+  "name": "28 Days Later",
+  "year": 2002,
+  "runtime": 113,
+  "categories": [
+    "drama",
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "2002-06-27",
+  "director": "Danny Boyle",
+  "writer": [
+    "Alex Garland"
+  ],
+  "actors": [
+    "Cillian Murphy",
+    "Naomie Harris",
+    "Christopher Eccleston"
+  ],
+  "storyline": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary."
+}

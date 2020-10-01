@@ -1,0 +1,22 @@
+{
+  "name": "Dead Poets Society",
+  "year": 1989,
+  "runtime": 128,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1989-06-02",
+  "director": "Peter Weir",
+  "writer": [
+    "Tom Schulman"
+  ],
+  "actors": [
+    "Robin Williams",
+    "Robert Sean Leonard",
+    "Ethan Hawke",
+    "Kurtwood Smith",
+    "Norman Lloyd"
+  ],
+  "storyline": "Set in 1959 at the fictional elite conservative Vermont boarding school Welton Academy, it tells the story of an English teacher who inspires his students through his teaching of poetry."
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Ocean's 8",
+    "year": 2018,
+    "runtime": 111,
+    "categories": [
+      "comedy",
+      "thriller"
+    ],
+    "release-date": "2018-06-08",
+    "director": "Gary Ross",
+    "writer": [
+      "Gary Ross",
+      "Olivia Milch"
+    ],
+    "actors": [
+        "Sandra Bullock",
+        "Cate Blanchett",
+        "Anne Hathaway",
+        "Mindy Kaling",
+        "Sarah Paulson",
+        "Awkwafina",
+        "Rihanna",
+        "Helena Bonham Carter"
+    ],
+    "storyline": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala."
+  }

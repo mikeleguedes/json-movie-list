@@ -1,0 +1,28 @@
+{
+    "name" : "Ad Astra",
+    "year" : 2019,
+    "runtime" : 124,
+    "categories" : [
+      "adventure",
+      "fantasy",
+      "mystery",
+      "thriller",
+	  "sci-fi"
+    ],
+    "release-date" : "2019-09-29",
+    "director" : "James Gray",
+    "writer" : [
+      "James Gray",
+      "Ethan Gross"
+    ],
+    "actors" : [
+      "Brad Pitt",
+      "Dede Gardner",
+      "Jeremy Kleiner",
+      "James Gray",
+      "Anthony Katagas",
+      "Rodrigo Teixeira",
+      "Arnon Milchan"
+    ],
+    "storyline" : "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe."
+}

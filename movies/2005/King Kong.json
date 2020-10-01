@@ -1,0 +1,26 @@
+{
+  "name": "King Kong",
+  "year": 2005,
+  "runtime": 187,
+  "categories": [
+    "drama",
+    "fantasy",
+    "action",
+    "adventure",
+    "romance"
+  ],
+  "release-date": "2005-12-05",
+  "director": "Peter Jackson",
+  "writer": [
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson"
+  ],
+  "actors": [
+    "Naomi Watts",
+    "Jack Black",
+    "Peter Jackson",
+    "Andrien Brody"
+  ],
+  "storyline": "Filmmaker Carl Denham and his crew encounter a giant ape in Skull Island and imprison it to bring it to New York. However, they land in trouble when the giant ape is set free in the city."
+}

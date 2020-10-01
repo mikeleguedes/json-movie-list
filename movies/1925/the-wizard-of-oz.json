@@ -1,0 +1,31 @@
+{
+    "name" : "The Wizard of Oz",
+    "year" : 1925,
+    "runtime" : 81,
+    "categories" : [
+      "comedy",
+      "family",
+      "fantasy"
+    ],
+    "release-date" : "1925-01-27",
+    "director" : "Larry Semon",
+    "writer" : [
+      "L. Frank Baum",
+      "Frank Joslyn Baum",
+      "Edgar Allan Woolf"
+    ],
+    "actors" : [
+      "Dorothy Dwan",
+      "Mary Carr",
+      "Virginia Pearson",
+      "Bryant Washburn",
+      "Josef Swickard",
+      "Charles Murray",
+      "Oliver Hardy",
+      "Frank Alexander",
+      "Otto Lederer",
+      "Frederick Ko Vert",
+      "Larry Semon"
+    ],
+    "storyline" : "Dorothy, heir to the Oz throne, must take it back from the wicked Prime Minister Kruel with the help of three farmhands."
+}
