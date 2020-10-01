@@ -1,0 +1,15 @@
+{
+    "name": "West Side Story",
+    "year": 1961,
+    "runtime": 153,
+    "categories": [
+      "Crime",
+      "Drama ",
+      "Musical"
+    ],
+    "release-date": "1961-10-16",
+    "director": [ "Jerome Robbins", "Robert Wise"],
+    "writer": [" Ernest Lehman", "Arthur Laurents", "Jerome Robbins"],
+    "actors": [ "Natalie Wood", "George Chakiris", "Richard Beymer"  ],
+    "storyline": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy."
+}
