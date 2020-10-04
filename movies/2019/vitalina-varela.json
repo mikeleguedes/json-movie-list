@@ -1,0 +1,30 @@
+{
+    "name" : "Vitalina Varela",
+    "year" : 2019,
+    "runtime" : 124,
+    "categories" : [
+      "drama"
+    ],
+    "release-date" : "2019-10-31",
+    "director" : "Pedro Costa",
+    "writer" : [
+      "Pedro Costa",
+      "Vitalina Varela"
+    ],
+    "actors" : [
+      "Vitalina Varela",
+      "Ventura",
+      "Manuel Tavares Almeida",
+      "Francisco Brito",
+      "Marina Alves Domingues",
+      "João Baptista Fortes",
+      "Nilsa Fortes",
+      "Lisa Lopi",
+      "Benvinda Mendes",
+      "Emídio Landim Monteiro",
+      "Imídio Monteiro",
+      "João Raimundo Monteiro",
+      "Bruno Brito Varela"
+    ],
+    "storyline" : "A Cape Verdean woman navigates her way through Lisbon, following the scanty physical traces her deceased husband left behind and discovering his secret, illicit life."
+}
