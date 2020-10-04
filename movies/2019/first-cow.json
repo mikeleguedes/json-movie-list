@@ -1,0 +1,29 @@
+{
+    "name": "First cow",
+    "year": 2019,
+    "runtime": 122,
+    "categories": [
+      "drama"
+    ],
+    "release-date": "2019-08-30",
+    "director": "Kelly Reichardt",
+    "writer": [
+        "Jonathan Raymond",
+        "Kelly Reichardt"
+    ],
+    "actors": [
+        "John Magaro",
+        "Orion Lee"
+        "Rene Auberjonois",
+        "Toby Jones",
+        "Ewen Bremner",
+        "Scott Shepherd",
+        "Gary Farmer",
+        "Lily Gladstone",
+        "Alia Shawkat",
+        "Dylan Smith",
+        "Stephen Malkmus",
+        "Mitchell Saddleback"
+    ],
+    "storyline": "A skilled cook has traveled west and joined a group of fur trappers in Oregon, though he only finds true connection with a Chinese immigrant also seeking his fortune. Soon the two collaborate on a successful business."
+  }
