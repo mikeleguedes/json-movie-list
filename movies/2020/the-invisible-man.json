@@ -1,0 +1,24 @@
+{
+    "name": "The Invisible Man",
+    "year": 2020,
+    "runtime": 124,
+    "categories": [
+      "horror",
+      "thriller",
+      "sci-fi"
+    ],
+    "release-date": "2020-02-28",
+    "director": "Leigh Whannell",
+    "writer": [
+      "Leigh Whannell"
+    ],
+    "actors": [
+         "Elisabeth Moss",
+         "Aldis Hodge", 
+         "Storm Reid", 
+         "Harriet Dyer", 
+         "Michael Dorman", 
+         "Oliver Jackson-Cohen"
+    ],
+    "storyline": "It follows a woman who believes she is being stalked by her abusive and wealthy boyfriend even after his apparent suicide, and ultimately deduces that he has acquired the ability to become invisible."
+  }
