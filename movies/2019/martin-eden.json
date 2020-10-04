@@ -1,0 +1,11 @@
+{
+  "name": "Martin Eden",
+  "year": 2019,
+  "runtime": 129,
+  "categories": ["adventure", "thriller", "sci-fi"],
+  "release-date": "2019-09-02",
+  "director": "Pietro Marcello",
+  "writer": ["Jack London", "Maurizio Braucci", "Pietro Marcello"],
+  "actors": ["Luca Marinelli", "Carlo Cecchi"],
+  "storyline": " Martin Eden struggles to rise above his destitute, proletarian circumstances through an intense and passionate pursuit of self-education, hoping to achieve a place among the literary elite."
+}
