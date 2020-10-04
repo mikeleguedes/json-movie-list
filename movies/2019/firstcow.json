@@ -1,0 +1,23 @@
+{
+    "name" : "First cow",
+    "year" : 2019,
+    "runtime" : 121,
+    "categories" : [
+      "drama"
+    ],
+    "release-date" : "2019-08-30",
+    "director" : "Kelly Reichardt",
+    "writer" : [
+      "Jonathan Raymond"
+    ],
+    "actors" : [
+      "Alia Shawkat ",
+      "John Magaro ",
+      "Dylan Smith ",
+      "Ryan Findley ",
+      "Clayton Nemrow ",
+      "Manuel Rodriguez ",
+      "Orion Lee "
+    ],
+    "storyline" : " A loner and cook (John Magaro) has traveled west and joined a group of fur trappers in Oregon Territory, though he only finds connection with a Chinese immigrant (Orion Lee). The men collaborate on a business, although its longevity is reliant upon the participation of a wealthy landowner's prized milking cow."
+}
