@@ -1,0 +1,47 @@
+{
+    "name" : "Crip Camp",
+    "year" : 2020,
+    "runtime" : 106,
+    "category" : "documentary",
+    "release-date" : "2020-03-26",
+    "directors" : [
+        "James Lebrecht",
+        "Nicole Newnham"
+    ],
+    "writer" : [
+        "James Lebrecht",
+        "Nicole Newnham",
+        "David Radcliff"
+    ],
+    "actors" : [
+        "Larry Allison",
+        "Dennis Billups",
+        "William Bronston",
+        "George Bush",
+        "Joseph A. Califano",
+        "Jimmy Carter",
+        "Kitty Cone",
+        "Ann Cupolo Freeman",
+        "Nanci D'Angelo",
+        "HolLynn D'Lil",
+        "Judith Heumann",
+        "Steve Hofmann",
+        "Denise Sherer Jacobson",
+        "Neil Jacobson",
+        "Lionel Je'Woodyard",
+        "Ted Kennedy",
+        "Sheldon Koy",
+        "James Lebrecht",
+        "Al Levy",
+        "George Moscone",
+        "Richard Nixon",
+        "Joseph O'Conor",
+        "Corbett O'Toole",
+        "Ronald Reagan",
+        "Nancy Rosenblum",
+        "Evan White",
+        "Ed Bradley",
+        "John Chancellor"
+    ],
+    "storyline" : "Down the road from Woodstock, a revolution blossomed at a ramshackle summer camp for teenagers with disabilities, transforming their lives and igniting a landmark movement."
+}
