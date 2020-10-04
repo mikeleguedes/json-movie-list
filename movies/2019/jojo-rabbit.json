@@ -1,0 +1,34 @@
+{
+    "name" : "Jojo Rabbit",
+    "year" : 2019,
+    "runtime" : 108,
+    "categories" : [
+      "comedy",
+      "drama",
+      "war"
+    ],
+    "release-date" : "2019-11-08",
+    "director" : "Taika Waititi",
+    "writer" : [
+      "Christine Leunens",
+      "Taika Waititi"
+    ],
+    "actors" : [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson",
+      "Taika Waititi",
+      "Sam Rockwell",
+      "Rebel Wilson",
+      "Alfie Allen",
+      "Stephen Merchant",
+      "Archie Yates",
+      "Luke Brandon Field",
+      "Sam Haygarth",
+      "Stanislav Callas",
+      "Joe Weintraub",
+      "Brian Caspe",
+      "Gabriel Andrews"
+    ],
+    "storyline" : "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home."
+}
