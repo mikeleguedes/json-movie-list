@@ -1,0 +1,34 @@
+{
+  "name": "Roman Holiday",
+  "year": 1953,
+  "runtime": 118,
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "release-date": "1953-08-20",
+  "director": [
+    "William Wyler"
+  ],
+  "writer": [
+    "Ian McLellan Hunte",
+    "John Dighton"
+  ],
+  "actors": [
+    "Gregory Peck",
+    "Audrey Hepburn",
+    "Eddie Albert",
+    "Hartley Power",
+    "Harcourt Williams",
+    "Margaret Rawlings",
+    "Tullio Carminati",
+    "Paolo Carlini",
+    "Claudio Ermelli",
+    "Paola Borboni",
+    "Alfredo Rizzo",
+    "Laura Solari",
+    "Gorella Gori"
+
+  ],
+  "storyline": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome."
+}
