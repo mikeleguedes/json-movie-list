@@ -1,0 +1,26 @@
+{
+    "name": "Hocus Pocus",
+    "year": 1993,
+    "runtime": 96,
+    "categories": [
+      "comedy",
+      "family",
+      "fantasy"
+    ],
+    "release-date": "2093-07-16",
+    "director": "Kenny Ortega",
+    "writer": [
+      "David Kirschner",
+      "Mick Garris",
+      "Neil Cuthbert"
+    ],
+    "actors": [
+      "Bette Midler",
+      "Sarah Jessica Parker",
+      "Kathy Najimy",
+      "Omri Katz",
+      "Thora Birch",
+      "Vinessa Shaw"    
+    ],
+    "storyline":"A curious youngster moves to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century."
+  }
