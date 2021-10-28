@@ -1,0 +1,28 @@
+{
+    "name": "Raya and the Last Dragonn",
+    "year": 2021,
+    "runtime": 124,
+    "categories": [
+      "horror",
+      "thriller",
+      "sci-fi"
+    ],
+    "release-date": "2020-02-28",
+    "director": [
+        "Don Hall",
+        "Carlos López Estrada"
+    ],    
+    "writer": [
+      "Qui Nguyen",
+      "Adele Lim"
+    ],
+    "actors": [
+         "Kelly Marie Tran",
+         "Awkwafina", 
+         "Izaac Wang", 
+         "Gemma Chan", 
+         "Daniel Dae Kim", 
+         "Benedict Wong"
+    ],
+    "storyline": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good."
+  }
