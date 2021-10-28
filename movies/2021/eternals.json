@@ -1,0 +1,32 @@
+{
+    "name": "Eternals",
+    "year": 2021,
+    "runtime": 157,
+    "categories": [
+        "drama",
+        "adventure",
+        "action"
+    ],
+    "release-date": "2021-10-18",
+    "director": "Chloe Zhao",
+    "writer": [
+        "Chloe Zhao",
+        "Patrick Burleigh",
+        "Ryan Firpo",
+        "Kaz Firpo"
+    ],
+    "actors": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Théodore Pellerin",
+        "Angelina Jolie",
+        "Salma Hayek",
+        "Kit Harington",
+        "Kumail Nanjiani",
+        "Lia McHugh",
+        "Brian Tyree Henry",
+        "Lauren Ridloff"
+
+    ],
+    "storyline": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
+}
