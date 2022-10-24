@@ -1,0 +1,28 @@
+{
+    "name": "Thor: Love and Thunder",
+    "year": 2022,
+    "runtime": 118,
+    "categories": [
+      "comedy",
+      "action",
+      "adventure"
+    ],
+    "release-date": "2022-07-08",
+    "director": [
+        "Taika Waititi"
+    ],    
+    "writer": [
+      "Taika Waititi",
+      "Jennifer Kaytin Robinson"
+    ],
+    "actors": [
+         "Chris Hemsworth",
+         "Christian Bale", 
+         "Natalie Portman", 
+         "Tessa Thompson", 
+         "Russell Crowe", 
+         "Chris Pratt",
+         "Jaimie Alexander"
+    ],
+    "storyline": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct."
+  }
