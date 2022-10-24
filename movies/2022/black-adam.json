@@ -1,0 +1,29 @@
+{
+    "name": "Black Adam",
+    "year": 2022,
+    "runtime": 124,
+    "categories": [
+      "fantasy",
+      "action",
+      "adventure"
+    ],
+    "release-date": "2022-10-21",
+    "director": [
+        "Jaume Collet-Serra"
+    ],    
+    "writer": [
+      "Adam Sztykiel",
+      "Rory Haines",
+      "Sohrab Noshirvani"
+    ],
+    "actors": [
+         "Dwayne Johnson",
+         "Aldis Hodge", 
+         "Pierce Brosnan", 
+         "Noah Centineo", 
+         "Sarah Shahi", 
+         "Quintessa Swindell",
+         "Marwan Kenzari"
+    ],
+    "storyline": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+  }
