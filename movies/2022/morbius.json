@@ -1,0 +1,27 @@
+{
+    "name": "Morbius",
+    "year": 2022,
+    "runtime": 104,
+    "categories": [
+      "horror",
+      "action",
+      "adventure"
+    ],
+    "release-date": "2022-04-01",
+    "director": [
+        "Daniel Espinosa"
+    ],    
+    "writer": [
+      "Matt Sazama",
+      "Burk Sharpless"
+    ],
+    "actors": [
+         "Jared Leto",
+         "Matt Smith", 
+         "Adria Arjona", 
+         "Jared Harris", 
+         "Tyrese Gibson", 
+         "Al Madrigal"
+    ],
+    "storyline": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
+  }
