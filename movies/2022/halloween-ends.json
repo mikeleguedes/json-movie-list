@@ -1,0 +1,28 @@
+{
+    "name": "Halloween Ends",
+    "year": 2022,
+    "runtime": 111,
+    "categories": [
+      "horror",
+      "thriller"
+    ],
+    "release-date": "2022-10-14",
+    "director": [
+        "David Gordon Green"
+    ],    
+    "writer": [
+      "John Carpenter",
+      "Debra Hill",
+      "Paul Brad Logan"
+    ],
+    "actors": [
+         "Jamie Lee Curtis",
+         "Andi Matichak", 
+         "James Jude Courtney", 
+         "Rohan Campbell", 
+         "Will Patton", 
+         "Jesse C. Boyd",
+         "Michael Barbieri"
+    ],
+    "storyline": "The saga of Michael Myers and Laurie Strode comes to a spine-chilling climax in the final installment of this trilogy."
+  }
