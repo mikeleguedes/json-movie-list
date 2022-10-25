@@ -1,0 +1,29 @@
+{
+    "name": "Monfall",
+    "year": 2022,
+    "runtime": 130,
+    "categories": [
+      "sci-fi",
+      "action",
+      "adventure"
+    ],
+    "release-date": "2022-02-04",
+    "director": [
+        "Roland Emmerich"
+    ],    
+    "writer": [
+      "Roland Emmerich",
+      "Harald Kloser",
+      "Spenser Cohen"
+    ],
+    "actors": [
+         "Halle Berry",
+         "Patrick Wilson", 
+         "John Bradley", 
+         "Charlie Plummer", 
+         "Wenwen Yu", 
+         "Michael Peña",
+         "Carolina Bartczak"
+    ],
+    "storyline": "A mysterious force knocks the moon from its orbit and sends it hurtling on a collision course toward earth."
+  }
