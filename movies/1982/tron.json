@@ -1,0 +1,18 @@
+{
+    "name": "TRON",
+    "year": 1982,
+    "runtime": 96,
+    "categories": [
+        "action",
+        "adventure",
+        "sci-fi"
+    ],
+    "release-date": "1982-07-09",
+    "director": "Steven Lisberger",
+    "actors": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner"
+    ],
+    "storyline": "Hacker/arcade owner Kevin Flynn is digitally broken down into a data stream by a villainous software pirate known as Master Control and reconstituted into the internal, 3-D graphical world of computers. It is there, in the ultimate blazingly colorful, geometrically intense landscapes of cyberspace, that Flynn joins forces with Tron to outmaneuver the Master Control Program that holds them captive in the equivalent of a gigantic, infinitely challenging computer game."
+}
