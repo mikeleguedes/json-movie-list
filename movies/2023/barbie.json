@@ -1,0 +1,18 @@
+{
+    "name": "Barbie",
+    "year": 2023,
+    "runtime": 114,
+    "categories": [
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "release-date": "2023-07-21",
+    "director": "Greta Gerwig",
+    "actors": [
+        "Margot Robbie",
+        "Ryan Gosling",
+        "Issa Rae"
+    ],
+    "storyline": "Barbie suffers a crisis that leads her to question her world and her existence."
+}
