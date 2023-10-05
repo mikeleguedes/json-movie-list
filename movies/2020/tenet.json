@@ -1,0 +1,22 @@
+{
+  "name": "Tenet",
+  "year": 2020,
+  "runtime": 150,
+  "categories": [
+    "action",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2020-04-12",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Christopher Nolan",
+    "Michael Caine"
+  ],
+  "actors": [
+    "John David Washington",
+    "Robert Pattinson",
+    "Elizabeth Debicki"
+  ],
+  "storyline": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time."
+}
