@@ -7,137 +7,164 @@ const moviesFolder = './movies';
 const actorsFolder = './actors';
 const directorsFolder = './directors';
 
-const requiredMovieProps = ['name', 'year', ['runtime', 'future']];
+const requiredProp = ['name', 'year', ['runtime', 'future']];
 
-const validateFileName = (fileName) => {
-  // Ensure the file name is in lowercase
-  if (fileName !== fileName.toLowerCase()) {
-    return 'Invalid JSON filename format; must be lowercase: ' + fileName;
-  }
-  return null;
-};
+const years = fs.readdirSync(moviesFolder);
+const actors = fs.readdirSync(actorsFolder);
+const directors = fs.readdirSync(directorsFolder);
+let errorsFound = false;
 
-const validateJSON = (fileName) => {
-  try {
-    const movieData = fs.readFileSync(fileName, 'utf8');
-    JSON.parse(movieData);
-    return null;
-  } catch (e) {
-    return 'Invalid JSON file: ' + fileName;
-  }
-};
+const movie_errors = [];
+years.sort().forEach(year => {
+  const files = fs.readdirSync(`${moviesFolder}/${year}`);
 
-const validateMovie = (fileName, movie) => {
-  // Check for required properties in the movie object
-  for (let i = 0; i < requiredMovieProps.length; i++) {
-    const currentProp = requiredMovieProps[i];
-    if (Array.isArray(currentProp)) {
-      if (!currentProp.some(key => movie[key])) {
-        return fileName + ' missing one of the props: ' + currentProp.join(',');
-      }
-    } else if (!movie.hasOwnProperty(currentProp)) {
-      return fileName + ' doesn\'t contain ' + currentProp;
-    }
-  }
-
-  // Check if the movie's year matches the folder it's in
-  const year = parseInt(path.basename(path.dirname(fileName)));
-  if (movie.year !== year) {
-    return fileName + ' movie is in the wrong year folder. Found: ' + movie.year + '. Expected: ' + year;
-  }
-
-  // Validate the file name format
-  const expectedFileName = deburr(movie.name)
-    .replace(/[\'\"\,\?]/g, '')
-    .replace(/([\:\.]| - )/g, ' ')
-    .replace(/  /g, ' ')
-    .replace(/&/, 'and')
-    .replace(/\s+/g, '-')
-    .toLowerCase()
-    .replace(/[^a-z0-9-]/g, '') // Remove non-alphanumeric characters
-    .replace('æ', 'ae')
-    .replace('ç', 'c');
-
-  if (path.parse(fileName).name !== expectedFileName) {
-    return fileName + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
-  }
-
-  // Check the file extension
-  if (path.extname(fileName) !== '.json') {
-    return fileName + ' extension is not json';
-  }
-
-  return null; // No errors found
-};
-
-const validatePerson = (fileName, requiredProperties) => {
-  try {
-    const personData = fs.readFileSync(fileName, 'utf8');
-    const person = JSON.parse(personData);
-
-    // Check for required properties in the person object
-    for (const prop of requiredProperties) {
-      if (!person.hasOwnProperty(prop)) {
-        console.warn(`${fileName} is missing the required property: ${prop}`);
-      }
-    }
-
-    // Validate the file name format
-    const expectedFileName = person.name
-      .replace(/[\'\"]/g, '')
-      .replace(/([\:\.]| - )/g, '')
-      .replace(/  /g, ' ')
-      .replace(/\s+/g, '-')
-      .toLowerCase()
-      .replace(/[^a-z0-9-]/g, '') // Remove non-alphanumeric characters
-      .replace('æ', 'ae')
-      .replace('ç', 'c');
-
-    if (path.parse(fileName).name !== expectedFileName) {
-      console.warn(`${fileName} person's name is either wrong or file name is not according to guidelines. Expected: ${expectedFileName}.json`);
-    }
-
-    // Check the file extension
-    if (path.extname(fileName) !== '.json') {
-      console.warn(fileName + ' extension is not json');
-    }
-  } catch (e) {
-    console.error('Error parsing ' + fileName);
-  }
-};
-
-const validateFilesInFolder = (folder, validationFunction, requiredProperties) => {
-  const files = fs.readdirSync(folder);
   files.forEach(file => {
-    const fileName = path.join(folder, file);
-    const fileNameValidation = validateFileName(file);
-    const jsonValidation = validateJSON(fileName);
+    const fileName = `${moviesFolder}/${year}/${file}`;
+    const movieData = fs.readFileSync(fileName, 'utf8');
+    let movie = null;
 
-    if (fileNameValidation) {
-      console.error(fileNameValidation);
-    } else if (jsonValidation) {
-      console.error(jsonValidation);
-    } else {
-      const movie = JSON.parse(fs.readFileSync(fileName, 'utf8'));
-      const movieValidation = validationFunction(fileName, movie, requiredProperties);
-      if (movieValidation) {
-        console.error(movieValidation);
+    if (file !== file.toLowerCase()) {
+      movie_errors.push('Invalid JSON filename format; must be lowercase: ' + file);
+    }
+
+    try {
+      movie = JSON.parse(movieData);
+    } catch (e) {
+      console.error('Error parsing ' + fileName);
+      movie_errors.push('Invalid JSON file: ' + fileName);
+    }
+    const expectedFileName = deburr(movie.name)
+      .replace(/[\'\"\,\?]/g, '')
+      .replace(/([\:\.]| - )/g, ' ')
+      .replace(/  /g, ' ')
+      .replace(/&/, 'and')
+      .replace(/\s+/g, '-')
+                                    
+      .toLowerCase()
+      .replace(/[\u00F2-\u03F6\u00F8]/g, 'o') // 'o'-like symbols
+      .replace(/[\u00E0-\u00E5]/g, 'a')       // 'a'-like symbols
+      .replace(/[\u00E8-\u00EB]/g, 'e')       // 'e'-like symbols
+      .replace(/[\u00EC-\u00EC]/g, 'i')       // 'i'-like symbols
+      .replace(/[\u00F9-\u00FC]/g, 'u')       // 'u'-like symbols
+      .replace(/[\u00FD\u00FF]/g, 'y')        // 'y'-like symbols
+      .replace('æ','ae')
+      .replace('ç', 'c')
+
+    for (let i = 0; i < requiredProp.length; i++) {
+      const currentProp = requiredProp[i];
+      if (Array.isArray(currentProp)) {
+        let any = false;
+        currentProp.forEach(key => {
+          if (movie[key]) any = true;
+        });
+
+        if (!any) {
+          errorsFound = true;
+          movie_errors.push(fileName + ' missing one of the props: ' + currentProp.join(','));
+        }
+      } else if (!movie.hasOwnProperty(currentProp)){
+        errorsFound = true;
+        console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
+        movie_errors.push(fileName + ' doesn\'t contain ' + requiredProp[i]);
       }
+    }
+
+    if (movie.year !== parseInt(year)) {
+      errorsFound = true;
+      const errorMessage = fileName + ' movie is in the wrong year folder. Found: ' + movie.year + '. Expected: ' + year;
+      movie_errors.push(errorMessage);
+    }
+
+    if (path.parse(file).name !== expectedFileName) {
+      errorsFound = true;
+      const errorMessage = fileName + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
+      movie_errors.push(errorMessage);
+    }
+
+    if (path.extname(file) !== '.json') {
+      errorsFound = true;
+      const errorMessage = fileName + ' extension is not json';
+      movie_errors.push(errorMessage);
     }
   });
-};
+});
 
-// Validate movie files
-validateFilesInFolder(moviesFolder, validateMovie, requiredMovieProps);
-console.log('Movies test complete.');
+if (movie_errors.length > 0) {
+  const errorMessage = movie_errors.join('\n');
+  console.error(errorMessage);
+  throw errorMessage;
+}
 
-// Validate actor files
-validateFilesInFolder(actorsFolder, validatePerson, ['name', 'birthdate', 'birthplace']);
-console.log('Actors test complete.');
+console.log('movies test: no errors found.');
 
-// Validate director files
-validateFilesInFolder(directorsFolder, validatePerson, ['name', 'birthdate', 'birthplace']);
-console.log('Directors test complete.');
+function validatePerson(file, folder) {
+  const fileName = `${folder}/${file}`;
+  const personData = fs.readFileSync(fileName, 'utf8');
+  let person = null;
 
-// Assert that no errors were found
-assert.equal(false, 'Invalid files found');
+  try {
+    person = JSON.parse(personData);
+  } catch (e) {
+    console.error('Error parsing ' + fileName);
+    throw new Error('Invalid JSON file: ' + fileName);
+  }
+
+  const requiredProperties = [
+    'name',
+    'birthdate',
+    'birthplace'
+  ];
+
+  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop));
+
+  if (checkProperties.includes(false)) {
+    errorsFound = true;
+    const missingProps = checkProperties
+      .filter(prop => prop === false)
+      .map((prop, index) => requiredProperties[index])
+      .join(', ');
+    console.warn(`${fileName} is missing the required properties: ${missingProps}`);
+  }
+
+  // Expect filename to be slug of person name
+  const expectedFileName = person.name
+    .replace(/[\'\"]/g, '')
+    .replace(/([\:\.]| - )/g, '')
+    .replace(/  /g, ' ')
+    .replace(/\s+/g, '-')
+    .toLowerCase()
+    .replace(/[\u00F2-\u03F6\u00F8]/g, 'o') // 'o'-like symbols
+    .replace(/[\u00E0-\u00E5]/g, 'a')       // 'a'-like symbols
+    .replace(/[\u00E8-\u00EB]/g, 'e')       // 'e'-like symbols
+    .replace(/[\u00EC-\u00EC]/g, 'i')       // 'i'-like symbols
+    .replace(/[\u00F9-\u00FC]/g, 'u')       // 'u'-like symbols
+    .replace(/[\u00FD\u00FF]/g, 'y')        // 'y'-like symbols
+    .replace('æ','ae')
+    .replace('ç', 'c');
+
+  const fileBaseName = path.parse(file).name
+  if (path.parse(file).name !== expectedFileName) {
+    // Filname consisting of person name without middle names is also fine
+    const names = person.name.split(' ');
+    const withoutMiddleNames = `${names[0]}-${names.pop()}`.toLowerCase();
+
+    if (fileBaseName !== withoutMiddleNames) {
+      errorsFound = true;
+      console.warn(`${fileName} person's name is either wrong or file name is not according to guidelines.
+        Expected: ${expectedFileName}.json
+        ${withoutMiddleNames !== expectedFileName ? `or ${withoutMiddleNames}.json` : ''}`);
+    }
+  }
+
+  if (path.extname(file) !== '.json') {
+    errorsFound = true;
+    console.warn(file + ' extension is not json');
+  }
+}
+actors.forEach(file => {validatePerson(file, actorsFolder)});
+console.log("actors test complete");
+
+directors.forEach(file => {validatePerson(file, directorsFolder)});
+console.log("directors test complete");
+
+assert.equal(errorsFound, false, 'Invalid files found');
