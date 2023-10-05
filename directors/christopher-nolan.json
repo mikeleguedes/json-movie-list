@@ -2,5 +2,52 @@
   "name": "Christopher Nolan",
   "birthname": "Christopher Edward Nolan",
   "birthdate": "1970-07-30",
-  "birthplace": "Westminster, London, England"
+  "birthplace": "Westminster, London, England",
+   "Movies":"[
+  {
+    "title": "Following",
+    "release_year": 1998
+  },
+  {
+    "title": "Memento",
+    "release_year": 2000
+  },
+  {
+    "title": "Insomnia",
+    "release_year": 2002
+  },
+  {
+    "title": "Batman Begins",
+    "release_year": 2005
+  },
+  {
+    "title": "The Prestige",
+    "release_year": 2006
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": 2008
+  },
+  {
+    "title": "Inception",
+    "release_year": 2010
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "release_year": 2012
+  },
+  {
+    "title": "Interstellar",
+    "release_year": 2014
+  },
+  {
+    "title": "Dunkirk",
+    "release_year": 2017
+  },
+  {
+    "title": "Tenet",
+    "release_year": 2020
+  }
+]"
+
 }
