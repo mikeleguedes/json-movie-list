@@ -24,7 +24,6 @@ axios.get(url, { headers })
       });
       const logContent = movies.map(movie => `${movie.title}: ${movie.rating}`).join('\n');
       fs.writeFileSync(logFilePath, logContent);
-      //console.log(movies);
     }
   })
   .catch(error => console.error('Error:', error));
