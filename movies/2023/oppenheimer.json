@@ -1,0 +1,17 @@
+{
+    "name": "Oppenheimer",
+    "year": 2023,
+    "runtime": 180,
+    "categories": [
+        "drama",
+        "history"
+    ],
+    "release-date": "2023-07-21",
+    "director": "Christopher Nolan",
+    "actors": [
+        "Cillian Murphy",
+        "Florence Pugh",
+        "Robert Downey Jr."
+    ],
+    "storyline": "Oppenheimer and a team of scientists spend years developing and designing the atomic bomb."
+}
